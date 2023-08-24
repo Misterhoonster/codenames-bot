@@ -1,11 +1,11 @@
 import openai
 
 # Set your OpenAI API key
-api_key = "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"
+api_key = ""
 openai.api_key = api_key
 
 # Set my org
-openai.organization = "org-ADaggha6RcG4uPgRrlhTwxHd"
+openai.organization = ""
 
 # Set the initial user message
 user_message = """You are the spymaster in a popular word guessing game called Codenames.
