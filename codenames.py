@@ -10,7 +10,7 @@ class TestCodenames(PlaygroundClient):
     def __init__(self, **kwargs):
         super().__init__(
             GameType.CODENAMES,
-            model_name="bob-v2",
+            model_name="bob-v3",
             **kwargs
         )
 
